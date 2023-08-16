@@ -1,1 +1,1 @@
-A project from ODIN PROJECT
+My first simple project from ODIN PROJECT
